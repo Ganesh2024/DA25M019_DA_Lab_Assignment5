@@ -1,14 +1,19 @@
 # DA25M019_DA_Lab_Assignment5
 
-# Yeast Dataset Manifold Visualization ([https://mulan.sourceforge.net/datasets-mlc.html])
+# [Yeast Dataset Manifold Visualization](https://mulan.sourceforge.net/datasets-mlc.html)
+
 ## Data Veracity Analysis using t-SNE and Isomap
 
 ---
 
 **Name: Mula Ganesh**
+
 **Roll No: DA25M019**
+
 **Course:** DA5401 - Data Analysis Lab  
+
 **Assignment:** A5 - Manifold Visualization & Data Veracity Inspection  
+
 **Dataset:** Yeast Gene Expression (Multi-Label Classification)
 
 ---
